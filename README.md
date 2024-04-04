@@ -9,6 +9,10 @@
 
 ### Scripts
 
+#### `npm install`
+Install dependencies before starting
+
+
 #### `npm run start`
 
 Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
